@@ -218,20 +218,28 @@ shinyApp(ui = ui, server = server)
 
 </div>
 
+<img style="position:absolute;bottom:10px;left:30px;width:200px;"src="`r logo`">
+
 ## Input elements {.smaller .flexbox .vcenter}
 <!-- =========================================================================================== -->
 
 ![](images/input.png)
+
+<img style="position:absolute;bottom:10px;left:30px;width:200px;"src="`r logo`">
 
 ## Render functions {.smaller .flexbox .vcenter}
 <!-- =========================================================================================== -->
 
 ![](images/render.png)
 
+<img style="position:absolute;bottom:10px;left:30px;width:200px;"src="`r logo`">
+
 ## Output functions {.smaller .flexbox .vcenter}
 <!-- =========================================================================================== -->
 
 ![](images/output.png)
+
+<img style="position:absolute;bottom:10px;left:30px;width:200px;"src="`r logo`">
 
 # More advanced applications
 <!-- =========================================================================================== -->
